@@ -1,7 +1,7 @@
 # Push Swap 42 Project
 
 <p align="center">
-  <img src="push_swap2.jpeg" alt="Libft Logo" style="max-width: 100%; height: auto;">
+  <img src="push_swap1.jpeg" alt="Libft Logo" style="max-width: 100%; height: auto;">
 </p>
 
 
