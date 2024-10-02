@@ -1,7 +1,7 @@
 # Push Swap 42 Project
 
 <p align="center">
-  <img src="push_swap1.jpeg" alt="Project Logo" width="200"/>
+  <img src="push_swap1.png" alt="Project Logo" width="200"/>
 </p>
 
 ## Project Overview
